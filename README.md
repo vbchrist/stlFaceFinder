@@ -32,7 +32,7 @@ The output should be,
 
 > C:\path\to\files> ./stlFaceFinder.exe wier.STL release.stl
 
-> Importing C:\Users\Noram\Desktop\stlFaceFinder\Debug\wier.STL...  Done.
+> Importing C:\path\to\files\wier.STL...  Done.
 
 > 6162 facets in file.
 
@@ -48,7 +48,7 @@ The output should be,
 
 > Assigning new surfaces to STL solids ... Done.
 
-> Writing to C:\Users\Noram\Desktop\stlFaceFinder\Debug\release.stl... Done.
+> Writing to C:\path\to\files\release.stl... Done.
 
 
 Source code:
