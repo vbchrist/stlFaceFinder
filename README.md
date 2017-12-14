@@ -31,15 +31,25 @@ Run the program using
 The output should be,
 
 > C:\path\to\files> ./stlFaceFinder.exe wier.STL release.stl
+
 > Importing C:\Users\Noram\Desktop\stlFaceFinder\Debug\wier.STL...  Done.
+
 > 6162 facets in file.
+
 > Generating edge list ... Sorting edges ... Done. (1.50148)
+
 > Matching facets ... Done.
+
 > Successfully matched 18486 of 18486 facet edges.
+
 > Doing setup ... Done.
+
 > Searching for surfaces ... Done.
+
 > Assigning new surfaces to STL solids ... Done.
+
 > Writing to C:\Users\Noram\Desktop\stlFaceFinder\Debug\release.stl... Done.
+
 
 Source code:
 
