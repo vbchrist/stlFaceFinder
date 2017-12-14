@@ -14,8 +14,6 @@ Download stlFaceFinder.exe
 
 Use windows command promt to run from command line.
 
-This is SLOW right now for STL files with a few 1000 facets. I am currently working on an impoved data structure to speed this up a lot.
-
 stlFaceFinder.exe [inputFile] [outputFile]
 
 [inputFile] = either local file or complete file path (validation of file not done)
