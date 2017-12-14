@@ -53,8 +53,4 @@ The output should be,
 
 Source code:
 
-Source will be made avaible in a week or so when I have cleaned it.... 
-I understand anyone who doesn't trust pre-builts sorry.
-
-https://xkcd.com/1513/
-https://xkcd.com/1695/
+Source will be made avaible shortly.
